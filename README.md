@@ -1,3 +1,10 @@
+
+## Todo App, with React, Redux, and TypeScript
+
+I created this app as part of a code-along for https://egghead.io/courses/build-a-react-app-with-redux. I also added TypeScript to play around with it ✌🏼
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
